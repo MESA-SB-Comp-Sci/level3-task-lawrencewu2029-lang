@@ -5,3 +5,42 @@
 }
 
 /* write all your rules below */
+
+.blue {
+    color: blue;
+}
+
+.green {
+    color: green;
+}
+
+.purple {
+    color: purple;
+}
+
+.headings {
+    background-color: pink;
+    border: 10px solid red;
+    padding: 1%;
+    margin: 20px;
+    width: 80%;
+
+}
+
+.box-1 {
+    width: 100vw;
+    height: 30vh;
+    content: 20%;
+    padding: 10%;
+    background-color: cyan;
+
+}
+
+.box-2 {
+    background-color: yellow;
+    border: 8px solid pink;
+    margin: 3%;
+    height: 15%;
+
+
+}
